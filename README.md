@@ -90,3 +90,19 @@ Perform customer segmentation using clustering techniques to identify distinct g
    ```bash
    git clone <repository_link>
    cd <repository_folder>
+
+## Results Overview
+
+- **Task 1**: Derived actionable insights such as regional customer concentration, seasonal trends, and the contribution of high-value customers to total revenue.
+- **Task 2**: Built a lookalike model recommending three similar customers for each of the first 20 customers based on their purchasing patterns.
+- **Task 3**: Segmented customers into four clusters, providing targeted strategies for each group to enhance engagement and revenue.
+
+---
+
+## Contact
+
+For queries, please contact:
+
+- **Name**: Shreejith N S
+- **Email**: shreejithns@shreejitns.dev
+- **Linkdin Profile**: [Shreejith N S](https://www.linkedin.com/in/shreejith-n-s-20a0a9254/)
